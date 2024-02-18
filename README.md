@@ -1,6 +1,6 @@
 # Javascript Basics
 
-Learning Javascript :
+## Learning Javascript :
 1. Building a passenger counter app
 2. Setting up our JavaScript file
 3. Write your first JavaScript variable
@@ -27,3 +27,5 @@ Learning Javascript :
 24. Create the save feature
 25. Debugging online
 26. Set the count to 0
+
+## Building Calculator app
