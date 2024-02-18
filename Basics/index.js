@@ -1,0 +1,1 @@
+document.getElementById("count-people").innerText = 5;
